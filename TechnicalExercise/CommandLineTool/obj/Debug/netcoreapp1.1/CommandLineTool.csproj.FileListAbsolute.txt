@@ -1,0 +1,10 @@
+C:\Dev\Test\TechnicalExercise\CommandLineTool\bin\Debug\netcoreapp1.1\CommandLineTool.deps.json
+C:\Dev\Test\TechnicalExercise\CommandLineTool\bin\Debug\netcoreapp1.1\CommandLineTool.runtimeconfig.json
+C:\Dev\Test\TechnicalExercise\CommandLineTool\bin\Debug\netcoreapp1.1\CommandLineTool.runtimeconfig.dev.json
+C:\Dev\Test\TechnicalExercise\CommandLineTool\bin\Debug\netcoreapp1.1\CommandLineTool.dll
+C:\Dev\Test\TechnicalExercise\CommandLineTool\bin\Debug\netcoreapp1.1\CommandLineTool.pdb
+C:\Dev\Test\TechnicalExercise\CommandLineTool\obj\Debug\netcoreapp1.1\CommandLineTool.csprojResolveAssemblyReference.cache
+C:\Dev\Test\TechnicalExercise\CommandLineTool\obj\Debug\netcoreapp1.1\CommandLineTool.csproj.CoreCompileInputs.cache
+C:\Dev\Test\TechnicalExercise\CommandLineTool\obj\Debug\netcoreapp1.1\CommandLineTool.AssemblyInfo.cs
+C:\Dev\Test\TechnicalExercise\CommandLineTool\obj\Debug\netcoreapp1.1\CommandLineTool.dll
+C:\Dev\Test\TechnicalExercise\CommandLineTool\obj\Debug\netcoreapp1.1\CommandLineTool.pdb

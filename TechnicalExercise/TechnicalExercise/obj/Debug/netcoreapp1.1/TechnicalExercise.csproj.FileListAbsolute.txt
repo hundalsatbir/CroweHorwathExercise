@@ -1,0 +1,10 @@
+C:\Dev\Test\TechnicalExercise\TechnicalExercise\bin\Debug\netcoreapp1.1\TechnicalExercise.deps.json
+C:\Dev\Test\TechnicalExercise\TechnicalExercise\bin\Debug\netcoreapp1.1\TechnicalExercise.runtimeconfig.json
+C:\Dev\Test\TechnicalExercise\TechnicalExercise\bin\Debug\netcoreapp1.1\TechnicalExercise.runtimeconfig.dev.json
+C:\Dev\Test\TechnicalExercise\TechnicalExercise\bin\Debug\netcoreapp1.1\TechnicalExercise.dll
+C:\Dev\Test\TechnicalExercise\TechnicalExercise\bin\Debug\netcoreapp1.1\TechnicalExercise.pdb
+C:\Dev\Test\TechnicalExercise\TechnicalExercise\obj\Debug\netcoreapp1.1\TechnicalExercise.csprojResolveAssemblyReference.cache
+C:\Dev\Test\TechnicalExercise\TechnicalExercise\obj\Debug\netcoreapp1.1\TechnicalExercise.csproj.CoreCompileInputs.cache
+C:\Dev\Test\TechnicalExercise\TechnicalExercise\obj\Debug\netcoreapp1.1\TechnicalExercise.AssemblyInfo.cs
+C:\Dev\Test\TechnicalExercise\TechnicalExercise\obj\Debug\netcoreapp1.1\TechnicalExercise.dll
+C:\Dev\Test\TechnicalExercise\TechnicalExercise\obj\Debug\netcoreapp1.1\TechnicalExercise.pdb
